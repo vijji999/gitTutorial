@@ -1,13 +1,1 @@
-
-
-
-
-
-
-This is a sample text file updated	
-fdadsfadsf
-afdasdfasdfad
-
-ssssss
-:wq
-dfafdasdfasdfasdfasdfasdasdfdfsaooooo
+Updated File details in GITHUB
